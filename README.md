@@ -1,3 +1,3 @@
 # BookYourShow
 
-My version of BookMyShow 
+Clone version of BookMyShow 
